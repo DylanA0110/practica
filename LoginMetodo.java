@@ -6,6 +6,7 @@ public class LoginMetodo
 {
     public static void main(String[] args)
     {
+    	//HOla como estas
         String opc = "";
         String regist = "";
         String pass = "";
