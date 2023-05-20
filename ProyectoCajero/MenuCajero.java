@@ -44,6 +44,10 @@ public class MenuCajero
                     case 4:
                         op.retirarDinero(op.saldo);
                         break;
+                        
+                        case 0:
+                        System.exit(0);
+                        break;
 
                     default:
                         System.out.print("\nEsa no es una opcion!");
